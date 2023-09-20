@@ -111,9 +111,9 @@ lista nao ordenada
 3. Altere o título da página.
 
 1. Primeiro abra o arquivo do logo do Markdown.
-2. Veja o logo do Markdown na tela.
+2. um pequeno gafanhoto.
 
-    ![canal do youtube](https://www.youtube.com/)
+    ![jovem programando](https://www.tiagogouvea.com.br/wp-content/uploads/2021/03/4-coisas-que-todo-junior-deve-saber.png)
 
 3. Já pode fechar o arquivo.
 
@@ -128,7 +128,7 @@ Coloque o texto que irá representar o link entre colchetes, exemplo:
 Em seguida, o endereço do link, também conhecido como URL, deve ser colocado entre parenteses, exemplo:
 (https://www.youtube.com)
 
-Visite [programador junior](https://www.tiagogouvea.com.br/wp-content/uploads/2021/03/4-coisas-que-todo-junior-deve-saber.png).
+Visite [curso em video](https://www.youtube.com/@CursoemVideo).
 
 
 Visite [Canal do curso em video ](https://www.youtube.com/@CursoemVideo).
