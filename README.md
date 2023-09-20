@@ -128,9 +128,9 @@ Coloque o texto que irá representar o link entre colchetes, exemplo:
 Em seguida, o endereço do link, também conhecido como URL, deve ser colocado entre parenteses, exemplo:
 (https://www.youtube.com)
 
-Visite [o que quiser digitar ](o endereço que deseja linkar).
+Visite [programador junior](https://www.tiagogouvea.com.br/wp-content/uploads/2021/03/4-coisas-que-todo-junior-deve-saber.png).
 
 
-Visite [canal de videos ](https://www.youtube.com/ " canal do youtube").
+Visite [Canal do curso em video ](https://www.youtube.com/@CursoemVideo).
 
 repositorio voltado para atividade de informatica para logistica
