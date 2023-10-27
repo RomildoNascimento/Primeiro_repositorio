@@ -17,7 +17,7 @@ Primeira linha do documento.
 Segunda linha do documento.
 
 teste para sabar se **asteriscos deixam em **negrito**.
-teste para sabar se **asteriscos deixam em __negrito__.
+teste para sabar se __ underline deixam em __negrito__.
 
 *um asterisco* deixa em  *italico*.
 _um underline_ deixa em  _italico_.
